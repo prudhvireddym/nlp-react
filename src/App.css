@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.extract-txt{
+  margin-left:20px;
+}
+
+.upload-file-card{
+  margin-top: 30px !important;
+  padding: 10px 10px 10px 10px;
+  max-width: 550px;
+  margin: auto auto;
+}
